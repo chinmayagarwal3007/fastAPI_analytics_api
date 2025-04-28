@@ -6,3 +6,4 @@ pydantic
 sqlalchemy
 timescaledb
 python-dotenv
+psycopg[binary]
